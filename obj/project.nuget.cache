@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ua0GLA5bRG1endY+0AT1Gsu6u/GiC5QK9YD1LI7mbXtJD67bHwwm6XVQ9SNJfg0reMddQ9HZyz8BmoCa6Kfjmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\palla\\source\\repos\\184-RFP\\Day29_IndianCensusAnalyzer\\Day29_IndianCensusAnalyzer\\CensusAnalyzer_Day29.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\palla\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

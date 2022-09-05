@@ -1,0 +1,17 @@
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CensusAnalyzer_Day29.exe
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CensusAnalyzer_Day29.deps.json
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CensusAnalyzer_Day29.runtimeconfig.json
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CensusAnalyzer_Day29.dll
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CensusAnalyzer_Day29.pdb
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.csproj.AssemblyReference.cache
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.AssemblyInfoInputs.cache
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.AssemblyInfo.cs
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.csproj.CoreCompileInputs.cache
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.csproj.CopyComplete
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.dll
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\refint\CensusAnalyzer_Day29.dll
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.pdb
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\CensusAnalyzer_Day29.genruntimeconfig.cache
+C:\Users\palla\source\repos\184-RFP\Day29_IndianCensusAnalyzer\Day29_IndianCensusAnalyzer\obj\Debug\net6.0\ref\CensusAnalyzer_Day29.dll
